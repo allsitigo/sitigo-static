@@ -1,0 +1,31 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node (au cas où on ajoute des scripts utility)
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Build / dist
+dist/
+.cache/
+.wrangler/
+
+# Sensitive / privé
+.env
+.env.*
+*.secret
+*.key
+auth.json
+
+# Drafts (work in progress)
+_drafts/
+*.draft.md
