@@ -94,7 +94,7 @@ Pour chacun de ces métiers, Sitigo génère :
 - **Satisfait ou remboursé 30 jours** sans justification (étendu au-delà du minimum légal art. L221-18 du Code de la consommation)
 - **Paiement PayPal** — protection acheteur intégrée, pas de stockage de carte bancaire
 - **Propriété du HTML généré** — site exportable à tout moment, hébergeable ailleurs si désiré
-- **Hébergement Cloudflare Pages inclus** dans les 69 € (pas de frais supplémentaires ultérieurs)
+- **Hébergement Cloudflare Pages inclus** dans les 69 €, sans limite de durée (pas de frais supplémentaires ultérieurs)
 - **Le site est à 69 € une fois, sans coût récurrent** — pas de palier « Pro » caché. Des options strictement facultatives existent (nom de domaine, langue supplémentaire, blog mensuel) ; elles ne sont jamais imposées et n'ajoutent aucun abonnement au site lui-même (détail plus bas).
 
 ## Votre nom de domaine : connectez le vôtre, sans frais
