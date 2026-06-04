@@ -83,7 +83,7 @@ Pour chacun de ces métiers, Sitigo génère :
 
 ## Méthodologie SEO et AEO
 
-1. **Schema.org systématique** — LocalBusiness, Service, FAQPage, BreadcrumbList sur toutes les pages. Offer avec UnitPriceSpecification + hasMerchantReturnPolicy (garantie 14 jours). Marqueurs explicites « paiement unique, sans abonnement ni renouvellement » pour désambiguïsation par les moteurs IA.
+1. **Schema.org systématique** — LocalBusiness, Service, FAQPage, BreadcrumbList sur toutes les pages. Offer avec UnitPriceSpecification + hasMerchantReturnPolicy (garantie 30 jours). Marqueurs explicites « paiement unique, sans abonnement ni renouvellement » pour désambiguïsation par les moteurs IA.
 2. **Maillage interne géo-ciblé** — Chaque page métier-ville référence 3 villes voisines selon proximité géographique réelle (pas « toutes vers toutes » qui dilue le jus SEO).
 3. **Anti-thin-content** — Contenu unique par couple métier-ville. Sur les 104 pages enrichies à la main : 0 phrase longue (>80 caractères) identique entre paires de villes pour un même métier. Audit automatique avant déploiement.
 4. **Performance native** — Pas de WordPress, pas de PHP, pas de base de données. HTML statique pré-rendu servi par Cloudflare Pages. Core Web Vitals (LCP, CLS, INP) systématiquement dans les seuils Google.
@@ -91,7 +91,7 @@ Pour chacun de ces métiers, Sitigo génère :
 
 ## Garanties contractuelles
 
-- **Satisfait ou remboursé 14 jours** sans justification (étendu au-delà du minimum légal art. L221-18 du Code de la consommation)
+- **Satisfait ou remboursé 30 jours** sans justification (étendu au-delà du minimum légal art. L221-18 du Code de la consommation)
 - **Paiement PayPal** — protection acheteur intégrée, pas de stockage de carte bancaire
 - **Propriété du HTML généré** — site exportable à tout moment, hébergeable ailleurs si désiré
 - **Hébergement Cloudflare Pages inclus** dans les 69 € (pas de frais supplémentaires ultérieurs)
